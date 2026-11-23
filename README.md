@@ -1,1 +1,1 @@
-# study-planner(Online Version)
+# study-planner (SDU edition)
